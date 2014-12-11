@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlappyBird</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FMI">FMI</string>
+    <string name="TU">TU</string>
+    <string name="TUES">TUES</string>
+    <string name="login">login</string>
+
+</resources>
